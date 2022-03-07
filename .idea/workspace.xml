@@ -4,6 +4,7 @@
     <list default="true" id="e5609f4d-5b58-4d50-9b2c-a4cd98924ca9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/tạo form tìm kiếm google.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tạo form đơn giản.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tạo giao diện forrm đăng kí  người dùng.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <workItem from="1646552387080" duration="771000" />
       <workItem from="1646562810746" duration="3389000" />
       <workItem from="1646570935311" duration="5017000" />
-      <workItem from="1646614692596" duration="10762000" />
+      <workItem from="1646614692596" duration="11500000" />
     </task>
     <servers />
   </component>
